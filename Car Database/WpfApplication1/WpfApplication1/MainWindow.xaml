@@ -7,7 +7,23 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="600">
     <Grid>
-        <Grid HorizontalAlignment="Left" Height="321" Margin="0,0,0,-0.2" VerticalAlignment="Top" Width="200"/>
+        <Grid HorizontalAlignment="Left" Height="321" Margin="0,0,0,-0.2" VerticalAlignment="Top" Width="200">
+            <CheckBox x:Name="checkBox" Content="CheckBox" HorizontalAlignment="Left" Height="16" VerticalAlignment="Top" Width="190"/>
+            <CheckBox x:Name="checkBox_Copy" Content="CheckBox" HorizontalAlignment="Left" Height="16" Margin="0,16,0,0" VerticalAlignment="Top" Width="190"/>
+            <CheckBox x:Name="checkBox_Copy1" Content="CheckBox" HorizontalAlignment="Left" Height="16" Margin="0,229,0,0" VerticalAlignment="Top" Width="190"/>
+            <CheckBox x:Name="checkBox_Copy2" Content="CheckBox" HorizontalAlignment="Left" Height="16" Margin="0,213,0,0" VerticalAlignment="Top" Width="190"/>
+            <CheckBox x:Name="checkBox_Copy3" Content="CheckBox" HorizontalAlignment="Left" Height="16" Margin="0,197,0,0" VerticalAlignment="Top" Width="190"/>
+            <CheckBox x:Name="checkBox_Copy4" Content="CheckBox" HorizontalAlignment="Left" Height="16" Margin="0,181,0,0" VerticalAlignment="Top" Width="190"/>
+            <CheckBox x:Name="checkBox_Copy5" Content="CheckBox" HorizontalAlignment="Left" Height="16" Margin="0,165,0,0" VerticalAlignment="Top" Width="190"/>
+            <CheckBox x:Name="checkBox_Copy6" Content="CheckBox" HorizontalAlignment="Left" Height="16" Margin="0,149,0,0" VerticalAlignment="Top" Width="190"/>
+            <CheckBox x:Name="checkBox_Copy7" Content="CheckBox" HorizontalAlignment="Left" Height="16" Margin="0,133,0,0" VerticalAlignment="Top" Width="190"/>
+            <CheckBox x:Name="checkBox_Copy8" Content="CheckBox" HorizontalAlignment="Left" Height="16" Margin="0,117,0,0" VerticalAlignment="Top" Width="190"/>
+            <CheckBox x:Name="checkBox_Copy9" Content="CheckBox" HorizontalAlignment="Left" Height="16" Margin="0,101,0,0" VerticalAlignment="Top" Width="190"/>
+            <CheckBox x:Name="checkBox_Copy10" Content="CheckBox" HorizontalAlignment="Left" Height="16" Margin="0,85,0,0" VerticalAlignment="Top" Width="190"/>
+            <CheckBox x:Name="checkBox_Copy11" Content="CheckBox" HorizontalAlignment="Left" Height="16" Margin="0,64,0,0" VerticalAlignment="Top" Width="190"/>
+            <CheckBox x:Name="checkBox_Copy12" Content="CheckBox" HorizontalAlignment="Left" Height="16" Margin="0,48,0,0" VerticalAlignment="Top" Width="190"/>
+            <CheckBox x:Name="checkBox_Copy13" Content="CheckBox" HorizontalAlignment="Left" Height="16" Margin="0,32,0,0" VerticalAlignment="Top" Width="190"/>
+        </Grid>
         <Grid HorizontalAlignment="Left" Height="322" Margin="393,-1,0,-0.2" VerticalAlignment="Top" Width="200"/>
         <Grid HorizontalAlignment="Left" Height="326" Margin="205,-5,0,-0.2" VerticalAlignment="Top" Width="188"/>
     </Grid>
