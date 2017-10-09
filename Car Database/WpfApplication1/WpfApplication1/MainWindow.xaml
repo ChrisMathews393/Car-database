@@ -8,21 +8,20 @@
         Title="MainWindow" Height="350" Width="600">
     <Grid>
         <Grid HorizontalAlignment="Left" Height="321" Margin="0,-1,0,0" VerticalAlignment="Top" Width="200">
-            <CheckBox x:Name="checkBox" Content="CheckBox" HorizontalAlignment="Left" Height="16" VerticalAlignment="Top" Width="190"/>
-            <CheckBox x:Name="checkBox_Copy" Content="CheckBox" HorizontalAlignment="Left" Height="16" Margin="0,16,0,0" VerticalAlignment="Top" Width="190"/>
-            <CheckBox x:Name="checkBox_Copy1" Content="CheckBox" HorizontalAlignment="Left" Height="16" Margin="0,224,0,0" VerticalAlignment="Top" Width="190"/>
-            <CheckBox x:Name="checkBox_Copy2" Content="CheckBox" HorizontalAlignment="Left" Height="16" Margin="0,208,0,0" VerticalAlignment="Top" Width="190"/>
-            <CheckBox x:Name="checkBox_Copy3" Content="CheckBox" HorizontalAlignment="Left" Height="16" Margin="0,192,0,0" VerticalAlignment="Top" Width="190"/>
-            <CheckBox x:Name="checkBox_Copy4" Content="CheckBox" HorizontalAlignment="Left" Height="16" Margin="0,176,0,0" VerticalAlignment="Top" Width="190"/>
-            <CheckBox x:Name="checkBox_Copy5" Content="CheckBox" HorizontalAlignment="Left" Height="16" Margin="0,160,0,0" VerticalAlignment="Top" Width="190"/>
-            <CheckBox x:Name="checkBox_Copy6" Content="CheckBox" HorizontalAlignment="Left" Height="16" Margin="0,144,0,0" VerticalAlignment="Top" Width="190"/>
-            <CheckBox x:Name="checkBox_Copy7" Content="CheckBox" HorizontalAlignment="Left" Height="16" Margin="0,128,0,0" VerticalAlignment="Top" Width="190"/>
-            <CheckBox x:Name="checkBox_Copy8" Content="CheckBox" HorizontalAlignment="Left" Height="16" Margin="0,112,0,0" VerticalAlignment="Top" Width="190"/>
-            <CheckBox x:Name="checkBox_Copy9" Content="CheckBox" HorizontalAlignment="Left" Height="16" Margin="0,96,0,0" VerticalAlignment="Top" Width="190"/>
-            <CheckBox x:Name="checkBox_Copy10" Content="CheckBox" HorizontalAlignment="Left" Height="16" Margin="0,80,0,0" VerticalAlignment="Top" Width="190"/>
-            <CheckBox x:Name="checkBox_Copy11" Content="CheckBox" HorizontalAlignment="Left" Height="16" Margin="0,64,0,0" VerticalAlignment="Top" Width="190"/>
-            <CheckBox x:Name="checkBox_Copy12" Content="CheckBox" HorizontalAlignment="Left" Height="16" Margin="0,48,0,0" VerticalAlignment="Top" Width="190"/>
-            <CheckBox x:Name="checkBox_Copy13" Content="CheckBox" HorizontalAlignment="Left" Height="16" Margin="0,32,0,0" VerticalAlignment="Top" Width="190"/>
+            <CheckBox x:Name="Acura" Content="Acura" HorizontalAlignment="Left" Height="16" VerticalAlignment="Top" Width="190" Checked="checkBox_Checked"/>
+            <CheckBox x:Name="checkBox_Copy1" Content="Nissan" HorizontalAlignment="Left" Height="16" Margin="0,16,0,0" VerticalAlignment="Top" Width="190"/>
+            <CheckBox x:Name="checkBox_Copy2" Content="Honda" HorizontalAlignment="Left" Height="16" Margin="0,208,0,0" VerticalAlignment="Top" Width="190"/>
+            <CheckBox x:Name="checkBox_Copy3" Content="Toyota" HorizontalAlignment="Left" Height="16" Margin="0,192,0,0" VerticalAlignment="Top" Width="190"/>
+            <CheckBox x:Name="checkBox_Copy4" Content="Mitsubishi" HorizontalAlignment="Left" Height="16" Margin="0,176,0,0" VerticalAlignment="Top" Width="190"/>
+            <CheckBox x:Name="checkBox_Copy5" Content="Infiniti" HorizontalAlignment="Left" Height="16" Margin="0,160,0,0" VerticalAlignment="Top" Width="190"/>
+            <CheckBox x:Name="checkBox_Copy6" Content="Subaru" HorizontalAlignment="Left" Height="16" Margin="0,144,0,0" VerticalAlignment="Top" Width="190"/>
+            <CheckBox x:Name="checkBox_Copy7" Content="Kia" HorizontalAlignment="Left" Height="16" Margin="0,128,0,0" VerticalAlignment="Top" Width="190"/>
+            <CheckBox x:Name="checkBox_Copy8" Content="Hyundai" HorizontalAlignment="Left" Height="16" Margin="0,112,0,0" VerticalAlignment="Top" Width="190"/>
+            <CheckBox x:Name="checkBox_Copy9" Content="Chevrolet" HorizontalAlignment="Left" Height="16" Margin="0,96,0,0" VerticalAlignment="Top" Width="190"/>
+            <CheckBox x:Name="checkBox_Copy10" Content="Dodge" HorizontalAlignment="Left" Height="16" Margin="0,80,0,0" VerticalAlignment="Top" Width="190"/>
+            <CheckBox x:Name="checkBox_Copy11" Content="Ford" HorizontalAlignment="Left" Height="16" Margin="0,64,0,0" VerticalAlignment="Top" Width="190"/>
+            <CheckBox x:Name="checkBox_Copy12" Content="Lexus" HorizontalAlignment="Left" Height="16" Margin="0,48,0,0" VerticalAlignment="Top" Width="190"/>
+            <CheckBox x:Name="checkBox_Copy13" Content="Mazda" HorizontalAlignment="Left" Height="16" Margin="0,32,0,0" VerticalAlignment="Top" Width="190"/>
         </Grid>
         <Grid HorizontalAlignment="Left" Height="322" Margin="393,-1,0,-0.2" VerticalAlignment="Top" Width="200"/>
         <Grid HorizontalAlignment="Left" Height="326" Margin="200,0,0,-5.2" VerticalAlignment="Top" Width="188">

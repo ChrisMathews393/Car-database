@@ -24,5 +24,27 @@ namespace WpfApplication1
         {
             InitializeComponent();
         }
+
+        private void checkBox_Checked(object sender, RoutedEventArgs e)
+        {
+
+        }
+        private void Acura_CheckStateChanged(object sender, EventArgs e)
+        {
+
+
+
+            bool? test = Acura.IsChecked; // someValue could be true, false, or null
+
+
+
+            if (test ?? false)
+            {
+
+                comboBox_Copy.IsEnabled;
+            }
+
+        }
+        }
     }
 }
